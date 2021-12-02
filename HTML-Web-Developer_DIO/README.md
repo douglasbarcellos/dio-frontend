@@ -10,4 +10,4 @@ Programação para internet com JavaScript;
 Construindo páginas para internet com Bootstrap;
 Fundamentos Aritméticos com JavaScript;
 
-PROJETOS -> Recriando a página inicial do Instagram, Recriando a Interface do Netflix, Recriando o Jogo da Cobrinha.
+PROJETOS -> Recriando a página inicial do Instagram [aqui](https://douglasbarcellos.github.io/dio-frontend/HTML-Web-Developer_DIO/Projetos/1-Recriando-pagina-do-insta/), Recriando a Interface do Netflix [aqui](https://douglasbarcellos.github.io/dio-frontend/HTML-Web-Developer_DIO/Projetos/2-netflix-clone/), Recriando o Jogo da Cobrinha [aqui](https://douglasbarcellos.github.io/dio-frontend/HTML-Web-Developer_DIO/Projetos/3-jogo_da_cobrinha/).
